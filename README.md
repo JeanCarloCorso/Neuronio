@@ -1,2 +1,2 @@
 # Neuronio
-Simples neurônio perceptron 
+Simples neurônio perceptron em C 
